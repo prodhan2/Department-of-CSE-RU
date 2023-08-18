@@ -109,7 +109,14 @@
       <td style="color: #555555;">Object Oriented Programming Lab</td>
       <td style="color: #555555;">50</td>
       <td style="color: #555555;">1</td>
-    </tr>
+    </tr> 
+      <tr>
+      <th style="color: #000080;">Semester</th>
+      <th style="color: #000080;">Course Code</th>
+      <th style="color: #000080;">Course Title</th>
+      <th style="color: #000080;">Marks</th>
+      <th style="color: #000080;">Creds</th>
+    </tr> 
     <tr>
       <td style="color: #555555;">SEMISTER -2.1</td>
       <td style="color: #555555;">ACCO2111</td>
