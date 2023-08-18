@@ -1,190 +1,178 @@
 # Department-of-CSE-RU Create BY Sujan Prodhan CSE-29
-<table border="1">
+
+<table border="1" style="background-color: #f2f2f2;">
   <thead>
     <tr>
-      <th>Semester</th>
-      <th>Course Code</th>
-      <th>Course Title</th>
-      <th>Marks</th>
-      <th>Creds</th>
+      <th style="color: #000080;">Semester</th>
+      <th style="color: #000080;">Course Code</th>
+      <th style="color: #000080;">Course Title</th>
+      <th style="color: #000080;">Marks</th>
+      <th style="color: #000080;">Creds</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>SEMISTER -1.1</td>
-      <td>ENG1111</td>
-      <td>Technical and Communicative English</td>
-      <td>50</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -1.1</td>
+      <td style="color: #555555;">ENG1111</td>
+      <td style="color: #555555;">Technical and Communicative English</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.1</td>
-      <td>MATH 1121</td>
-      <td>Differential and Integral Calculus</td>
-      <td>75</td>
-      <td>3</td>
+      <td style="color: #555555;">SEMISTER -1.1</td>
+      <td style="color: #555555;">MATH 1121</td>
+      <td style="color: #555555;">Differential and Integral Calculus</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.1</td>
-      <td>CHEM1121</td>
-      <td>Chemistry</td>
-      <td>75</td>
-      <td>3</td>
+      <td style="color: #555555;">SEMISTER -1.1</td>
+      <td style="color: #555555;">CHEM1121</td>
+      <td style="color: #555555;">Chemistry</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.1</td>
-      <td>EEE1132</td>
-      <td>Basic Electronics</td>
-      <td>75</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -1.1</td>
+      <td style="color: #555555;">EEE1132</td>
+      <td style="color: #555555;">Basic Electronics</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.1</td>
-      <td>CSE1111</td>
-      <td>Introduction to Computer Systems</td>
-      <td>75</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -1.1</td>
+      <td style="color: #555555;">CSE1111</td>
+      <td style="color: #555555;">Introduction to Computer Systems</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.1</td>
-      <td>CSE1112</td>
-      <td>Computer Maintenance and Engineering Drawing Lab</td>
-      <td>25</td>
-      <td>1</td>
+      <td style="color: #555555;">SEMISTER -1.1</td>
+      <td style="color: #555555;">CSE1112</td>
+      <td style="color: #555555;">Computer Maintenance and Engineering Drawing Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.1</td>
-      <td>CSE1121</td>
-      <td>Structural Programming Language</td>
-      <td>75</td>
-      <td>2</td>
+        <tr>
+      <td style="color: #555555;">SEMISTER -1.1</td>
+      <td style="color: #555555;">CSE1122</td>
+      <td style="color: #555555;">Structural Programming Language Lab</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">1</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.1</td>
-      <td>CSE1122</td>
-      <td>Structural Programming Language Lab</td>
-      <td>50</td>
-      <td>1</td>
+      <td style="color: #555555;">SEMISTER -1.2</td>
+      <td style="color: #555555;">ECON1211</td>
+      <td style="color: #555555;">Engineering Economics</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.2</td>
-      <td>ECON1211</td>
-      <td>Engineering Economics</td>
-      <td>50</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -1.2</td>
+      <td style="color: #555555;">STAT1211</td>
+      <td style="color: #555555;">Statistics for Engineers</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.2</td>
-      <td>STAT1211</td>
-      <td>Statistics for Engineers</td>
-      <td>50</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -1.2</td>
+      <td style="color: #555555;">MATH1221</td>
+      <td style="color: #555555;">Co-ordinate Geometry, Vector analysis and Complex Variable</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.2</td>
-      <td>MATH1221</td>
-      <td>Co-ordinate Geometry, Vector analysis and Complex Variable</td>
-      <td>75</td>
-      <td>3</td>
+      <td style="color: #555555;">SEMISTER -1.2</td>
+      <td style="color: #555555;">PHY 1211</td>
+      <td style="color: #555555;">Basic Electricity and Electrical Circuits</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.2</td>
-      <td>PHY 1211</td>
-      <td>Basic Electricity and Electrical Circuits</td>
-      <td>75</td>
-      <td>3</td>
+      <td style="color: #555555;">SEMISTER -1.2</td>
+      <td style="color: #555555;">CSE1211</td>
+      <td style="color: #555555;">Introduction to Digital Electronics</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.2</td>
-      <td>CSE1211</td>
-      <td>Introduction to Digital Electronics</td>
-      <td>75</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -1.2</td>
+      <td style="color: #555555;">CSE1212</td>
+      <td style="color: #555555;">Introduction to Digital Electronics Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
     </tr>
     <tr>
          <tr>
-      <td>SEMISTER -1.2</td>
-      <td>CSE1212</td>
-      <td>Introduction to Digital Electronics Lab</td>
-      <td>25</td>
-      <td>1</td>
+      <td style="color: #555555;">SEMISTER -1.2</td>
+      <td style="color: #555555;">CSE1222</td>
+      <td style="color: #555555;">Object Oriented Programming Lab</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">1</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.2</td>
-      <td>CSE1221</td>
-      <td>Object Oriented Programming</td>
-      <td>75</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">ACCO2111</td>
+      <td style="color: #555555;">Industrial Management and Accountancy</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -1.2</td>
-      <td>CSE1222</td>
-      <td>Object Oriented Programming Lab</td>
-      <td>50</td>
-      <td>1</td>
+      <td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">STAT2111</td>
+      <td style="color: #555555;">Theory of Statistics</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -2.1</td>
-      <td>ACCO2111</td>
-      <td>Industrial Management and Accountancy</td>
-      <td>50</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">MATH 2131</td>
+      <td style="color: #555555;">Differential Equations and Optimization</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td>SEMISTER -2.1</td>
-      <td>STAT2111</td>
-      <td>Theory of Statistics</td>
-      <td>50</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">CSE2111</td>
+      <td style="color: #555555;">Digital System Design</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -2.1</td>
-      <td>MATH 2131</td>
-      <td>Differential Equations and Optimization</td>
-      <td>75</td>
-      <td>3</td>
+      <td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">CSE2112</td>
+      <td style="color: #555555;">Digital System Design Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
     </tr>
     <tr>
-      <td>SEMISTER -2.1</td>
-      <td>CSE2111</td>
-      <td>Digital System Design</td>
-      <td>75</td>
-      <td>2</td>
+      <td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">CSE2121</td>
+      <td style="color: #555555;">Data Structure</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td>SEMISTER -2.1</td>
-      <td>CSE2112</td>
-      <td>Digital System Design Lab</td>
-      <td>25</td>
-      <td>1</td>
+      <td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">CSE2122</td>
+      <td style="color: #555555;">Data Structure Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
     </tr>
     <tr>
-      <td>SEMISTER -2.1</td>
-      <td>CSE2121</td>
-      <td>Data Structure</td>
-      <td>75</td>
-      <td>2</td>
+<td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">CSE2131</td>
+      <td style="color: #555555;">Discrete Mathematics</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td>SEMISTER -2.1</td>
-      <td>CSE2122</td>
-      <td>Data Structure Lab</td>
-      <td>25</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>SEMISTER -2.1</td>
-      <td>CSE2131</td>
-      <td>Discrete Mathematics</td>
-      <td>75</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>SEMISTER -2.1</td>
-      <td>SE2142</td>
-      <td>Writing Professional Code Lab</td>
-      <td>25</td>
-      <td>1</td>
+      <td style="color: #555555;">SEMISTER -2.1</td>
+      <td style="color: #555555;">SE2142</td>
+      <td style="color: #555555;">Writing Professional Code Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
     </tr>
   </tbody>
 </table>
