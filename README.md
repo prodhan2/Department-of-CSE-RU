@@ -1,5 +1,34 @@
 # Department-of-CSE-RU  THIS REPOSITORIES Create BY Sujan Prodhan CSE-29 
 #This Table + HTML code create by sujan prodhan RU CSE-29   #copyright :without any permission to copy
+
+
+<h2>MY Information</h2>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>University</th>
+    <th>Department</th>
+    <th>College</th>
+    <th>Phone Number</th>
+    <th>Social ID</th>
+    <th>Website</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>Sujan Prodhan</td>
+    <td>Rajshahi University</td>
+    <td>CSE (29)</td>
+    <td>Dinajpur Govt. City College</td>
+    <td><a href="tel:+1234567890">Call Me</a></td>
+    <td><a href="https://facebook.com/prodhan24">facebook</a></td>
+    <td><a href="https://prodhan2.blogspot.com">Admission Light</a></td>
+    <td><a href="mailto:ru.cse29@gmail.com">Mail me</a></td>
+  </tr>
+</table>
+
+
+
 <table border="1" style="background-color: #f2f2f2;">
   <thead>
     <tr>
