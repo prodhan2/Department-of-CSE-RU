@@ -257,8 +257,6 @@
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
     </tr>
-  <table border="1" style="background-color: #f2f2f2;">
-  <thead>
     <tr>
       <th style="color: #000080;">Semester</th>
       <th style="color: #000080;">Course Code</th>
