@@ -420,8 +420,7 @@
       <th style="color: #000080;">Marks</th>
       <th style="color: #000080;">Creds</th>
     </tr>
-  </thead>
-  <tbody>
+    <br>
     <tr>
       <td style="color: #555555;">SEMESTER -4.1</td>
       <td style="color: #555555;">CSE4111</td>
@@ -483,8 +482,6 @@
       <th style="color: #000080;">Marks</th>
       <th style="color: #000080;">Creds</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="color: #555555;">SEMESTER -4.2</td>
       <td style="color: #555555;">CSE4211</td>
