@@ -266,8 +266,6 @@
       <th style="color: #000080;">Marks</th>
       <th style="color: #000080;">Creds</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="color: #555555;">SEMESTER -3.1</td>
       <td style="color: #555555;">CSE3111</td>
