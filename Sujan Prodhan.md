@@ -341,8 +341,6 @@
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
     </tr>
- <table border="1" style="background-color: #f2f2f2;">
-  <thead>
     <tr>
       <th style="color: #000080;">Semester</th>
       <th style="color: #000080;">Course Code</th>
@@ -414,11 +412,7 @@
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
     </tr>
-  </tbody>
-</table>
 <br>
-<table border="1" style="background-color: #f2f2f2;">
-  <thead>
     <tr>
       <th style="color: #000080;">Semester</th>
       <th style="color: #000080;">Course Code</th>
@@ -481,7 +475,16 @@
       <td style="color: #555555;">Microprocessor Interfacing and Microcontrollers Lab</td>
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
+    </tr> <br>
+    <tr>
+      <th style="color: #000080;">Semester</th>
+      <th style="color: #000080;">Course Code</th>
+      <th style="color: #000080;">Course Title</th>
+      <th style="color: #000080;">Marks</th>
+      <th style="color: #000080;">Creds</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td style="color: #555555;">SEMESTER -4.2</td>
       <td style="color: #555555;">CSE4211</td>
@@ -493,6 +496,61 @@
       <td style="color: #555555;">SEMESTER -4.2</td>
       <td style="color: #555555;">CSE4212</td>
       <td style="color: #555555;">Computational Geometry Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -4.2</td>
+      <td style="color: #555555;">CSE4221</td>
+      <td style="color: #555555;">Digital Image Processing</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -4.2</td>
+      <td style="color: #555555;">CSE4222</td>
+      <td style="color: #555555;">Digital Image Processing Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -4.2</td>
+      <td style="color: #555555;">CSE4231</td>
+      <td style="color: #555555;">Computer Simulation and Modeling</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -4.2</td>
+      <td style="color: #555555;">CSE4232</td>
+      <td style="color: #555555;">Computer Simulation and Modeling Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -4.2</td>
+      <td style="color: #555555;">CSE4241</td>
+      <td style="color: #555555;">UI UX Engineering</td>
+      <td style="color: #555555;">75</td>
+          </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -4.2</td>
+      <td style="color: #555555;">CSE4242</td>
+      <td style="color: #555555;">UI UX Engineering Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -4.2</td>
+      <td style="color: #555555;">CSE4251</td>
+      <td style="color: #555555;">Blockchain</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -4.2</td>
+      <td style="color: #555555;">CSE4252</td>
+      <td style="color: #555555;">Blockchain Lab</td>
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
     </tr>
