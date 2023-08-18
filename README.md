@@ -1,5 +1,5 @@
 # Department-of-CSE-RU  THIS REPOSITORIES Create BY Sujan Prodhan CSE-29 
-#this HTML code create by sujan prodhan RU CSE-29
+#This Table + HTML code create by sujan prodhan RU CSE-29   copyright :without any permission to copy
 <table border="1" style="background-color: #f2f2f2;">
   <thead>
     <tr>
