@@ -257,5 +257,93 @@
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
     </tr>
+  <table border="1" style="background-color: #f2f2f2;">
+  <thead>
+    <tr>
+      <th style="color: #000080;">Semester</th>
+      <th style="color: #000080;">Course Code</th>
+      <th style="color: #000080;">Course Title</th>
+      <th style="color: #000080;">Marks</th>
+      <th style="color: #000080;">Creds</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3111</td>
+      <td style="color: #555555;">Software Engineering</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3112</td>
+      <td style="color: #555555;">Software Engineering Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3121</td>
+      <td style="color: #555555;">Database Management Systems</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3122</td>
+      <td style="color: #555555;">Database Management Systems Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3131</td>
+      <td style="color: #555555;">Web Engineering</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3132</td>
+      <td style="color: #555555;">Web Engineering Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3141</td>
+      <td style="color: #555555;">Compiler Design</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+          </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3142</td>
+      <td style="color: #555555;">Compiler Design Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3151</td>
+      <td style="color: #555555;">Engineering Ethics and Environment Protection</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3161</td>
+      <td style="color: #555555;">Communication Engineering</td>
+      <td style="color: #555555;">75</td>
+      <td style="color: #555555;">3</td>
+    </tr>
+    <tr>
+      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">CSE3171</td>
+      <td style="color: #555555;">Mobile Application Development Lab</td>
+      <td style="color: #555555;">25</td>
+      <td style="color: #555555;">1</td>
+    </tr>
   </tbody>
 </table>
