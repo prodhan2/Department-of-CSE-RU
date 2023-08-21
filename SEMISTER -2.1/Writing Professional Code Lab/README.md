@@ -191,6 +191,5 @@ public static void main(String[] args) {
 ```
 
 
-[Link to file2](file2.md)
-[Link to file in directory](directory/file.md)
-[Link to another directory](other-directory/)
+
+<img src="https://github.com/prodhan2/Department-of-CSE-RU/blob/main/20230821_120936.gif" alt="Department of cse">
