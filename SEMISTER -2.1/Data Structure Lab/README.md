@@ -1,4 +1,4 @@
-Array, Records and Pointers:
+# Array, Records and Pointers:
 
 1. Traversing: carry out the following operations on an Array
 
@@ -14,7 +14,7 @@ e) Sin Value
 
  
 
-2. Inserting: Insert
+# 2. Inserting: Insert
 
 a) 54 to a sorted array.
 
@@ -26,7 +26,7 @@ d) Karim to position 5.
 
  
 
-3. Deleting
+# 3. Deleting
 
 a) Delete Karim from a sorted array,
 
@@ -34,7 +34,7 @@ a) Delete Karim from a sorted array,
 
  
 
-4. Sorting:
+# 4. Sorting:
 
 a) Sort integer data using Bubble sort.
 
@@ -42,7 +42,7 @@ a) Sort integer data using Bubble sort.
 
  
 
-5. Searching:
+# 5. Searching:
 
 a) Search for 77 using Linear Binary Search:
 
@@ -50,21 +50,21 @@ a) Search for 77 using Linear Binary Search:
 
  
 
-6. Merging:
+# 6. Merging:
 
 a) Add two integer type arrays.
 
  b) Add two character type arrays
 
-7. Copy elements of a 2D array into a ID/linear array and print the elements of group 3 from the ID array
+# 7. Copy elements of a 2D array into a ID/linear array and print the elements of group 3 from the ID array
 
-8. Matrix: Addition Subtraction/Multiplication of two matrices.
+# 8. Matrix: Addition Subtraction/Multiplication of two matrices.
 
-9. Sparse Matrix: Store the element of a Triangular matrix A into a ID array B and locate the elements Ay in the array B.
+#9. Sparse Matrix: Store the element of a Triangular matrix A into a ID array B and locate the elements Ay in the array B.
 
  
 
-Linked List:
+# Linked List:
 
 1. Create a Linked List and store the value 5, 3, 9, 42, 0, 1
 
@@ -80,7 +80,7 @@ Linked List:
 
  
 
-STACKS, QUEUES, RECURSION:
+# STACKS, QUEUES, RECURSION:
 
 1. Push an Item onto a Stack
 
@@ -104,7 +104,7 @@ STACKS, QUEUES, RECURSION:
 
 11. Delete an element from a queue.
 
-TREE:
+# TREE:
 
 1. Write a program to insert an element in a Binary search tree, if the element already inserted before then  display the location.
 
@@ -120,7 +120,7 @@ TREE:
 
  
 
-GRAPH AND THEIR APPLICATION:
+# GRAPH AND THEIR APPLICATION:
 
 1. Write a program that takes an Adjacent matrix A with m vertices as input and output the following: a) adjacent of Vi, Vj
 
@@ -136,7 +136,7 @@ c) no of paths of length 3 from Vi to Vi d) no, of paths of length 4 from Vito V
 
 5. Write a program to create a Linked Representation of Graph, enter some data and read those data from the
 
-Graph
+# Graph
 
 6. Write a program to traverse a Graph represented in Linked List using Brneadth-First Search.
 
@@ -144,8 +144,8 @@ Graph
 
  
 
-SOME ADVANCED PROBLEM WHICH TO ADD LATER:
 
-(Md. Tohidul Islam) Associate Professor
+# (Md. Tohidul Islam) Associate Professor
 
-Department of CSE University of Rajshahi
+# Department of CSE University of Rajshahi
+# # create by sujan prodhan RU.CSE-29
