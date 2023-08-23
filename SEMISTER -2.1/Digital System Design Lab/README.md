@@ -49,7 +49,7 @@
         </tr>
     </table>
 
-# এখানে তোমাদের সুবিধার জন্য প্রত্যেকটি এক্সপেরিমেন্টের ভেরিল্গ কোড অ্যাড করা হয়েছে। -সুজন প্রধান
+# এখানে তোমাদের সুবিধার জন্য প্রত্যেকটি এক্সপেরিমেন্টের ভেরিল্গ কোড অ্যাড করা হয়েছে। -সুজন প্রধান(RU-CSE-29)
 <h2>Verilog Experiment List</h2>
 
 <table>
@@ -99,4 +99,6 @@
         <td><a href="https://github.com/prodhan2/DSD_verilog/blob/main/3Bit%20synchornous%20up%20down%20counter.v">Link</a></td>
     </tr>
 </table>
+
+# যদি অরো কোডের  প্রয়োজন হয়ে থাকে তবে  <a href="https://github.com/prodhan2/DSD_verilog">এখানে ক্লিক</a> করতে পারো। 
 
