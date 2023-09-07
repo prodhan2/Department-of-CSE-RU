@@ -14,7 +14,7 @@
     <th>Email</th>
   </tr>
   <tr>
-    <td>Sujan Prodhan</td>
+    <td><img src="Semester 1.2/Object Oriented Programming/photo_2023-08-25_22-43-12-photoaidcom-cropped.gif" alt="Image Description" style="float: left;">Sujan Prodhan</td>
     <td>Rajshahi University</td>
     <td>CSE (29)</td>
     <td>Dinajpur Govt. City College</td>
@@ -24,7 +24,6 @@
     <td><a href="mailto:ru.cse29@gmail.com">Mail me</a></td>
   </tr>
 </table>
-<img src="https://github.com/prodhan2/Department-of-CSE-RU/blob/main/Semester%201.2/Object%20Oriented%20Programming/photo_2023-08-25_22-43-12-photoaidcom-cropped.gif" alt="Image Description" style="float: left;">
 
 Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
