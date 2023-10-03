@@ -214,34 +214,34 @@
   <tbody>
     <tr>
       <td style="color: #555555;">SEMISTER -2.2</td>
-      <td style="color: #555555;">CYBER1211</td>
+      <td style="color: #555555;">LAW2211</td>
       <td style="color: #555555;">Cyber and Intellectual Property Law</td>
-      <td style="color: #555555;">75</td>
-      <td style="color: #555555;">3</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
       <td style="color: #555555;">SEMISTER -2.2</td>
-      <td style="color: #555555;">MATH 2141</td>
+      <td style="color: #555555;">MATH2231</td>
       <td style="color: #555555;">Numerical Methods</td>
-      <td style="color: #555555;">75</td>
-      <td style="color: #555555;">3</td>
+      <td style="color: #555555;">50</td>
+      <td style="color: #555555;">2</td>
     </tr>
     <tr>
-      <td style="color: #555555;">SEMISTER -2.2</td>
-      <td style="color: #555555;">MATH 2142</td>
+      <td style="color: #555555;">SEMISTER-2.2</td>
+      <td style="color: #555555;">MATH2232</td>
       <td style="color: #555555;">Numerical Methods Lab 2</td>
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
     </tr>
     <tr>
-      <td style="color: #555555;">SEMISTER -2.2</td>
-      <td style="color: #555555;">MATH 2151</td>
+      <td style="color: #555555;">SEMISTER-2.2</td>
+      <td style="color: #555555;">MATH2141</td>
       <td style="color: #555555;">Linear Algebra</td>
       <td style="color: #555555;">75</td>
       <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td style="color: #555555;">SEMESTER -2.2</td>
+      <td style="color: #555555;">SEMESTER-2.2</td>
       <td style="color: #555555;">CSE2211</td>
       <td style="color: #555555;">Theory of Computation</td>
       <td style="color: #555555;">75</td>
@@ -259,31 +259,32 @@
       <td style="color: #555555;">CSE2222</td>
       <td style="color: #555555;">Design and Analysis of Algorithms Lab</td>
       <td style="color: #555555;">25</td>
-          </tr>
+       <td style="color: #555555;">1</td>
+      </tr>
     <tr>
-      <td style="color: #555555;">SEMESTER -2.2</td>
+      <td style="color: #555555;">SEMESTER-2.2</td>
       <td style="color: #555555;">CSE2231</td>
       <td style="color: #555555;">Computer Architecture and Organization</td>
       <td style="color: #555555;">75</td>
       <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td style="color: #555555;">SEMESTER -2.2</td>
+      <td style="color: #555555;">SEMESTER-2.2</td>
       <td style="color: #555555;">CSE2232</td>
       <td style="color: #555555;">Computer Architecture and Organization Lab</td>
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
     </tr>
     <tr>
-      <td style="color: #555555;">SEMESTER -2.2</td>
-      <td style="color: #555555;">CSE2241</td>
+      <td style="color: #555555;">SEMESTER-2.2</td>
+      <td style="color: #555555;">CSE2242</td>
       <td style="color: #555555;">Technical Writing and Presentation</td>
       <td style="color: #555555;">75</td>
-      <td style="color: #555555;">3</td>
+      <td style="color: #555555;">1</td>
     </tr>
     <tr>
-      <td style="color: #555555;">SEMESTER -2.2</td>
-      <td style="color: #555555;">CSE2242</td>
+      <td style="color: #555555;">SEMESTER-2.2</td>
+      <td style="color: #555555;">CSE2252</td>
       <td style="color: #555555;">Web Application Development Lab</td>
       <td style="color: #555555;">25</td>
       <td style="color: #555555;">1</td>
@@ -293,17 +294,17 @@
       <th style="color: #000080;">Course Code</th>
       <th style="color: #000080;">Course Title</th>
       <th style="color: #000080;">Marks</th>
-      <th style="color: #000080;">Creds</th>
+      <th style="color: #000080;">Credit</th>
     </tr>
     <tr>
-      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">SEMESTER-3.1</td>
       <td style="color: #555555;">CSE3111</td>
       <td style="color: #555555;">Software Engineering</td>
       <td style="color: #555555;">75</td>
       <td style="color: #555555;">3</td>
     </tr>
     <tr>
-      <td style="color: #555555;">SEMESTER -3.1</td>
+      <td style="color: #555555;">SEMESTER-3.1</td>
       <td style="color: #555555;">CSE3112</td>
       <td style="color: #555555;">Software Engineering Lab</td>
       <td style="color: #555555;">25</td>
