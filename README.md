@@ -1,4 +1,3 @@
-# কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং -(রাজশাহী ইউনিভার্সিটি) পুরো ৪ বছরের সিলেবাস এর সাথে সকল Course এর প্রয়োজনীয় ফাইলগুলো এখানে সংরক্ষণ করা আছে।--সুজন প্রধান (CSE-29)
 #This Table + HTML code create by sujan prodhan RU CSE-29   #copyright :without any permission to copy
 
 
